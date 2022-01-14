@@ -1,0 +1,7 @@
+opencv_contrib_python==4.5.1.48
+matplotlib==3.3.4
+numpy==1.19.2
+torch==1.8.0+cu111
+torchvision==0.8.1
+progressbar33==2.4
+scikit_learn==0.24.2
